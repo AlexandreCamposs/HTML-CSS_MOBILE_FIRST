@@ -1,4 +1,5 @@
 @import url(src/style/header.css);
+@import url(src/style/banner.css);
 
 :root {
   --cor-de-funco: #ebecee;
