@@ -63,3 +63,6 @@
   color: var(--branco);
   font-weight: 700;
 }
+.descrição__texto2{
+  margin-top: 1em;
+}
