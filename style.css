@@ -1,15 +1,21 @@
 @import url(src/style/header.css);
 @import url(src/style/banner.css);
 @import url(src/style/carrosel.css);
-
+@import url(src/style/topicos.css);
+@import url(src/style/contato.css);
+@import url(src/style/rodape.css);
 :root {
   --cor-de-funco: #ebecee;
   --cor-de-funco2: #051d3b;
+  --preto:#000000;
   --branco: #ffffff;
   --laranja: #eb9b00;
   --azul: #002f52;
+  --cinza:#474646;
+  --cinza-claro:#858585;
   --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
-  --fonte-principal:"Poppins"
+  --fonte-principal:"Poppins";
+  --fonte-secundaria:"Joseph Sans";
 }
 body {
   background-color: var(--cor-de-funco);
